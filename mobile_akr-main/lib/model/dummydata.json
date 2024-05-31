@@ -1,0 +1,131 @@
+{
+  "sukarela": [
+    {
+      "nama": "Simpanan Bulanan",
+      "jumlah": "Rp. 399.999.999"
+    },
+    {
+      "nama": "Simpanan Tahunan",
+      "jumlah": "Rp. 399.999.999"
+    },
+    {
+      "nama": "Simpanan Harian",
+      "jumlah": "Rp. 399.999.999"
+    },
+    {
+      "nama": "Simpanan Wajib",
+      "jumlah": "Rp. 399.999.999"
+    }
+  ],
+
+  "pembiayaan": [
+    {
+      "ke": "1",
+      "pokok": "Rp. 319.999.999",
+      "margin": "Rp. 399.999.999",
+      "jangwaktu": "36 Bulan",
+      "status": "lunas"
+
+    },
+    {
+      "ke": "2",
+      "pokok": "Rp. 399.999.999",
+      "margin": "Rp. 399.999.999",
+      "jangwaktu": "36 Bulan",
+      "status": "lunas"
+
+    },
+    {
+      "ke": "3",
+      "pokok": "Rp. 399.999.999",
+      "margin": "Rp. 399.999.999",
+      "jangwaktu": "36 Bulan",
+      "status": "lunas"
+
+    },
+    {
+      "ke": "4",
+      "pokok": "Rp. 399.999.999",
+      "margin": "Rp. 399.999.999",
+      "jangwaktu": "36 Bulan",
+      "status": "Aktif"
+    }
+  ],
+
+
+  "detail_simpanan": [
+    {
+      "tanggal": "31-10-2021",
+      "jumlah": "Rp. 49.0000",
+      "saldo": "Rp. 399.999.999",
+      "ket": "Setoran Tunai A.N michelle"
+
+    },
+    {
+      "tanggal": "31-10-2021",
+      "jumlah": "Rp. 49.0000",
+      "saldo": "Rp. 399.999.999",
+      "ket": "Setoran Tunai A.N adit"
+
+    },
+    {
+      "tanggal": "31-10-2021",
+      "jumlah": "Rp. 49.0000",
+      "saldo": "Rp. 399.999.999",
+      "ket": "Setoran Tunai A.N michelle"
+
+    },
+    {
+      "tanggal": "31-10-2021",
+      "jumlah": "Rp. 49.0000",
+      "saldo": "Rp. 399.999.999",
+      "ket": "Setoran Tunai A.N michelle"
+    }
+  ],
+
+  "detail_pembiayaan": [
+    {
+      "ke": "1",
+      "NoRek": "500000000005467893210",
+      "saldoPok": "Rp. 399.999.999",
+      "saldoMar": "Rp. 99.999.999",
+      "saldoSim": "Rp. 79.999.999",
+      "Angsuran": "Rp. 49.999.999",
+      "tglBayar": "25-06-2021"
+    },
+
+    {
+      "ke": "2",
+      "NoRek": "500000000005467893210",
+      "saldoPok": "Rp. 399.999.999",
+      "saldoMar": "Rp. 399.999.999",
+      "saldoSim": "Rp. 79.999.999",
+      "Angsuran": "Rp. 49.999.999",
+      "tglBayar": "25-06-2021"
+    },
+
+    {
+      "ke": "3",
+      "NoRek": "500000000005467893210",
+      "saldoPok": "Rp. 399.999.999",
+      "saldoMar": "Rp. 399.999.999",
+      "saldoSim": "Rp. 79.999.999",
+      "Angsuran": "Rp. 49.999.999",
+      "tglBayar": "25-06-2021"
+    },
+
+    {
+      "ke": "4",
+      "NoRek": "500000000005467893210",
+      "saldoPok": "Rp. 399.999.999",
+      "saldoMar": "Rp. 399.999.999",
+      "saldoSim": "Rp. 79.999.999",
+      "Angsuran": "Rp. 49.999.999",
+      "tglBayar": "25-06-2021"
+    }
+  ]
+}
+
+
+
+
